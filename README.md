@@ -83,10 +83,6 @@ The **Salary Prediction Streamlit App** is a comprehensive machine learning appl
 
 ## 🚀 Quick Start
 
-### Prerequisites
-- Python 3.8 or higher
-- pip (Python package installer)
-
 ### One-Command Setup
 ```bash
 # Clone the repository
